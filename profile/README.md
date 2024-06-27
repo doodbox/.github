@@ -1,12 +1,211 @@
-## Hi there 👋
+# DoodBox
 
-<!--
+```uname: pusatttt,root
+id: uid=0(root) gid=0(root) groups=0(root)
+banner: 10.6.18-MariaDB
+back-end DBMS: MySQL >= 5.0.0 (MariaDB fork)
+current user: pusatttt_doodbox@localhost
+available databases: information_schema,pusatttt_doodbox
+```
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Database: pusatttt_doodbox
+- [13 tables]
+
+| Tables             |
+|--------------------|
+| ip_address         |
+| live_viewers       |
+| notification       |
+| tbl_admin          |
+| tbl_folder         |
+| tbl_method         |
+| tbl_saldo_user     |
+| tbl_user           |
+| tbl_vd_information |
+| tbl_videos         |
+| tbl_withdraw       |
+| video_views        |
+| wd_ads             |
+
+
+- Database: pusatttt_doodbox
+- Table: video_views
+- [5 columns]
+
+| Column   | Type    |
+|----------|---------|
+| id       | int(11) |
+| id_user  | int(11) |
+| id_video | int(11) |
+| tanggal  | date    |
+| views    | int(11) |
+
+- Database: pusatttt_doodbox
+- Table: tbl_admin
+- [3 columns]
+
+
+| Column   | Type    |
+|----------|---------|
+| email    | text    |
+| id       | int(11) |
+| password | text    |
+
+
+- Database: pusatttt_doodbox
+- Table: notification
+- [4 columns]
+
+
+| Column  | Type    |
+|---------|---------|
+| id      | int(11) |
+| id_user | int(11) |
+| message | text    |
+| title   | text    |
+
+
+- Database: pusatttt_doodbox
+- Table: ip_address
+- [4 columns]
+
+
+| Column   | Type        |
+|----------|-------------|
+| id       | int(11)     |
+| id_video | int(11)     |
+| ip       | varchar(50) |
+| tanggal  | date        |
+
+
+- Database: pusatttt_doodbox
+- Table: live_viewers
+- [3 columns]
+
+
+| Column         | Type      |
+|----------------|-----------|
+| id             | int(11)   |
+| user_id        | int(11)   |
+| watching_since | timestamp |
+
+
+- Database: pusatttt_doodbox
+- Table: tbl_saldo_user
+- [5 columns]
+
+
+| Column            | Type    |
+|-------------------|---------|
+| id                | int(11) |
+| id_user           | int(11) |
+| saldo             | double  |
+| total_views       | int(11) |
+| views_diskonversi | int(11) |
+
+
+- Database: pusatttt_doodbox
+- Table: tbl_vd_information
+- [7 columns]
+
+
+| Column            | Type        |
+|-------------------|-------------|
+| size              | varchar(50) |
+| id                | int(11)     |
+| id_user           | int(11)     |
+| id_video          | int(11)     |
+| pendapatan        | double      |
+| views             | int(11)     |
+| views_diskonversi | int(11)     |
+
+
+- Database: pusatttt_doodbox
+- Table: tbl_user
+- [6 columns]
+
+
+| Column     | Type    |
+|------------|---------|
+| name       | text    |
+| email      | text    |
+| id_user    | int(11) |
+| max_upload | int(11) |
+| password   | text    |
+| username   | text    |
+
+
+- Database: pusatttt_doodbox
+- Table: tbl_folder
+- [5 columns]
+
+
+| Column      | Type    |
+|-------------|---------|
+| path        | text    |
+| id          | int(11) |
+| id_user     | int(11) |
+| nama_folder | text    |
+| unique_id   | text    |
+
+
+- Database: pusatttt_doodbox
+- Table: tbl_withdraw
+- [8 columns]
+
+
+| Column            | Type    |
+|-------------------|---------|
+| method            | text    |
+| status            | text    |
+| atas_nama         | text    |
+| id                | int(11) |
+| id_user           | int(11) |
+| no_rekening       | text    |
+| tanggal_penarikan | date    |
+| total_penarikan   | int(11) |
+
+
+- Database: pusatttt_doodbox
+- Table: wd_ads
+- [4 columns]
+
+
+| Column  | Type    |
+|---------|---------|
+| ads     | text    |
+| id      | int(11) |
+| tanggal | date    |
+| total   | int(11) |
+
+
+- Database: pusatttt_doodbox
+- Table: tbl_method
+- [5 columns]
+
+
+| Column    | Type        |
+|-----------|-------------|
+| method    | varchar(50) |
+| number    | text        |
+| atas_nama | text        |
+| id        | int(11)     |
+| id_user   | int(11)     |
+
+
+- Database: pusatttt_doodbox
+- Table: tbl_videos
+- [8 columns]
+
+
+| Column         | Type        |
+|----------------|-------------|
+| file           | text        |
+| path           | text        |
+| id_user        | int(11)     |
+| id_video       | int(11)     |
+| judul          | text        |
+| path_folder    | text        |
+| tanggal_upload | date        |
+| unique_id      | varchar(15) |
