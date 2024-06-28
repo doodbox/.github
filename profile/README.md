@@ -1,14 +1,31 @@
 # DoodBox
+<br>
 
-```uname: pusatttt,root
+```
+083870396203
+083172566909
+latipharkat48@gmail.com
+latipharkat176@gmail.com
+latipfb20@gmail.com
+latifdev176@gmail.com
+muhammadlatifharkat23@gmail.com
+contact@latipharkat.my.id
+```
+
+<br>
+
+---
+---
+```
+uname: pusatttt,root
 id: uid=0(root) gid=0(root) groups=0(root)
 banner: 10.6.18-MariaDB
 back-end DBMS: MySQL >= 5.0.0 (MariaDB fork)
 current user: pusatttt_doodbox@localhost
 available databases: information_schema,pusatttt_doodbox
 ```
-
-
+---
+---
 - Database: pusatttt_doodbox
 - [13 tables]
 
