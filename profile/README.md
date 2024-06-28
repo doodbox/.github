@@ -26,7 +26,11 @@ contact@latipharkat.my.id
 crackerindo176@gmail.com
 ```
 
-<br>
+---
+---
+<p align="center">
+  <code>C:\Users\Latip Harkat\~</code>
+</p>
 
 ---
 ---
