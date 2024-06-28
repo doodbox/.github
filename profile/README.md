@@ -1,7 +1,19 @@
 # DoodBox
 <br>
+<p align="center">
+<img src="https://github.com/doodbox/.github/assets/168820093/15b75e42-f680-4572-ba8a-6005f7a9f538" width="200">
+<br>
+<i>ouch, im pretty much corny -Marquis Evander Thornevale</i>
+</p>
+
+<br>
+<br>
+
+---
+---
 
 ```
+~ CONTACT ~
 083870396203
 083172566909
 latipharkat48@gmail.com
@@ -10,6 +22,7 @@ latipfb20@gmail.com
 latifdev176@gmail.com
 muhammadlatifharkat23@gmail.com
 contact@latipharkat.my.id
+crackerindo176@gmail.com
 ```
 
 <br>
