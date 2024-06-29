@@ -13,13 +13,13 @@
 ---
 
 <p align="center">
-  https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1
-  https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1
-  https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1
-  https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1
-  https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1
-  https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1
-  https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1
+  https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
+  https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
+  https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
+  https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
+  https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
+  https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
+  https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1
 </p>
 
