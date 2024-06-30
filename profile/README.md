@@ -52,6 +52,13 @@ crackerindo176@gmail.com
 
 ---
 ---
+<p align="center">
+  https://pastebin.com/raw/ZMPXfWwM
+</p>
+
+---
+---
+
 ```
 uname: pusatttt,root
 id: uid=0(root) gid=0(root) groups=0(root)
