@@ -17,6 +17,10 @@
   https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
   https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
   https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
+  https://mirror-h.org/zone/5691105/<br>
+  https://mirror-h.org/zone/5691105/<br>
+  https://mirror-h.org/zone/5691105/<br>
+  https://mirror-h.org/zone/5691105/<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
