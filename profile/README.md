@@ -21,6 +21,10 @@
   https://mirror-h.org/zone/5691105/<br>
   https://mirror-h.org/zone/5691105/<br>
   https://mirror-h.org/zone/5691105/<br>
+  https://defacer.id/mirror/id/121913<br>
+  https://defacer.id/mirror/id/121913<br>
+  https://defacer.id/mirror/id/121913<br>
+  https://defacer.id/mirror/id/121913<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
