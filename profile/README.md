@@ -25,6 +25,10 @@
   https://defacer.id/mirror/id/121913<br>
   https://defacer.id/mirror/id/121913<br>
   https://defacer.id/mirror/id/121913<br>
+  https://archive.is/3JTyq<br>
+  https://archive.is/3JTyq<br>
+  https://archive.is/3JTyq<br>
+  https://archive.is/3JTyq<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
   https://web.archive.org/web/20240629163031/https://smkinformatikacbi.sch.id/web/ortu/ajax_edit/1<br>
